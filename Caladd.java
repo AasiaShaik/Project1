@@ -22,7 +22,7 @@ public static void main(String[] args){
 					break;
 			case '2' : System.exit(0);
 					break;
-			default: System.out.print("INVALID Option Selected !!!");
+			default: System.out.print("INVALID Option Selected, Please select a Vald one !!!!");
 					break;
  
 }
